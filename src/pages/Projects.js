@@ -3,7 +3,7 @@ import React from 'react';
 import { Card } from "react-bootstrap";
 import { motion } from "framer-motion";
 import p1 from '../images/p1.png';
-import p2 from '../images/p2.png';
+import p5 from '../images/p5.jpg';
 import p3 from '../images/p3.png';
 import p4 from '../images/p4.png';
 
@@ -14,8 +14,8 @@ const Projects = () => {
       id:1,
       name: "Todo App",
       technology:['HTML, ', 'CSS, ', 'JavaScript, ','NodeJS, ','React, ', 'Express, ', 'MondoDB ',],
-      imageUrl: p2,
-      projectUrl:'https://melodious-cupcake-9295ad.netlify.app/'
+      imageUrl: p5,
+      projectUrl:'https://marystodoapp.netlify.app/'
      },
    {
     id:1,
